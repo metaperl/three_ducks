@@ -16,8 +16,9 @@ Duck 2 is the 60-period H1 SMA. If this SMA is on the same side of the
 current price as duck 1, then you have 2 ducks in a line. In other
 words, duck 2 may or may not confirm duck 1.
 
-In the image below we see ![4 examples of duck
-2](https://www.evernote.com/shard/s309/sh/1b0eea98-5276-4f8b-bef5-b402ec42517b/f6f1e2e066f750124faae167493e615d/deep/0/Screenshot%206/20/14,%2012:38%20AM.jpg). It
+In the image below we see 4 examples of 2 ducks in a line.
+![](https://www.evernote.com/shard/s309/sh/1b0eea98-5276-4f8b-bef5-b402ec42517b/f6f1e2e066f750124faae167493e615d/deep/0/Screenshot%206/20/14,%2012:38%20AM.jpg).
+It
 is possible for the 2 ducks to suggest nothing, and the indicator will
 say that if it is so.
 
