@@ -62,5 +62,10 @@ Plenty.
 
 # Support / Contact
 
-For support requests click on "Issues" to the right and fill out an
-issue ticket.
+For support requests click on
+["Issues"](https://github.com/metaperl/three_ducks/issues) to the
+right and fill out an issue ticket.
+
+I also follow [the thread created by Captain Currency
+(inventor/disseminator of the technique) at
+Trade2Win](http://www.trade2win.com/boards/forex/123288-3-ducks-trading-system-413.html).
